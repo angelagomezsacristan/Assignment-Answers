@@ -30,8 +30,8 @@ Ruby - variables, constants and literals. Tutorials Point. (n.d.). Retrieved Nov
 
 Ruby - if...else, case, unless. Tutorials Point. (n.d.). Retrieved November 8, 2022, from https://www.tutorialspoint.com/ruby/ruby_if_else.htm 
 
-How to change Date variable: https://stackoverflow.com/questions/8196434/rails-datetime-now-without-time
+How to change Date variable. Retrieved November 8, 2022, from https://stackoverflow.com/questions/8196434/rails-datetime-now-without-time
 
-Chi square theory: https://ib.bioninja.com.au/higher-level/topic-10-genetics-and-evolu/102-inheritance/chi-squared-test.html
+Chi square theory. Retrieved November 8, 2022, from https://ib.bioninja.com.au/higher-level/topic-10-genetics-and-evolu/102-inheritance/chi-squared-test.html
 
-https://stackoverflow.com/questions/27965944/ruby-check-number-of-arguments-passed-from-instantiated-class-to-the-method-of
+Check number of arguments passed from instantiated class to the method of a module. Retrieved November 8, 2022, from https://stackoverflow.com/questions/27965944/ruby-check-number-of-arguments-passed-from-instantiated-class-to-the-method-of
