@@ -26,9 +26,9 @@ Rails datetime.now without time. Stack Overflow. Retrieved November 3, 2022, fro
 
 Can I delete columns from CSV using ruby? Stack Overflow. Retrieved November 5, 2022, from https://stackoverflow.com/questions/9184504/can-i-delete-columns-from-csv-using-ruby
 
-Ruby Class variables: https://www.tutorialspoint.com/ruby/ruby_variables.htm
+Ruby - variables, constants and literals. Tutorials Point. (n.d.). Retrieved November 8, 2022, from https://www.tutorialspoint.com/ruby/ruby_variables.htm 
 
-If Else in Ruby: https://www.tutorialspoint.com/ruby/ruby_if_else.htm
+Ruby - if...else, case, unless. Tutorials Point. (n.d.). Retrieved November 8, 2022, from https://www.tutorialspoint.com/ruby/ruby_if_else.htm 
 
 How to change Date variable: https://stackoverflow.com/questions/8196434/rails-datetime-now-without-time
 
