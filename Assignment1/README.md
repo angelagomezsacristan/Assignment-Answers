@@ -1,10 +1,10 @@
 This assignment was made in collaboration with Ana Karina Ballesteros Gómez, Mariam El Akal Chaji and Marta Fernández González.
 
 
-Run it with: $ ruby process_database.rb  gene_information.tsv  seed_stock_data.tsv  cross_data.tsv 
+Run it with: $ `ruby process_database.rb  gene_information.tsv  seed_stock_data.tsv  cross_data.tsv`
 
 
-References:
+# References:
 
 
 
