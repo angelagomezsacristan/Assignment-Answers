@@ -15,6 +15,8 @@ Using the co-expressed gene list from Table S2 of the supplementary data from th
 
 For running the code use: `ruby Main.rb ArabidopsisSubNetwork_GeneList.txt`
 
+An example of the output Final report file is shown in final_report.txt.
+
 ## References
 1. Append key/value pair to hash with << in ruby. Stack Overflow. Retrieved November 26, 2022, from https://stackoverflow.com/questions/19756139/append-key-value-pair-to-hash-with-in-ruby
 
