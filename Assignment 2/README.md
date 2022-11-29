@@ -1,4 +1,4 @@
-#Assignment 2
+# Assignment 2
 
 This assignment was made in collaboration with: Ana Karina Ballesteros Gómez, Ángela Gómez Sacristán, Mariam El Akal Chaji, Marta Fernández González and Paula Fernández Aldama.
 
@@ -12,9 +12,9 @@ Using the co-expressed gene list from Table S2 of the supplementary data from th
 Use a combination of any or all of: dbFetch, Togo REST API, EBI’s PSICQUIC REST API, DDBJ KEGG REST, and/or the Gene Ontology.
 Find all protein-protein interaction networks that involve members of that gene list.
 Determine which members of the gene list interact with each other.
-For running the code use: 'ruby Main.rb ArabidopsisSubNetwork_GeneList.txt'
+For running the code use: `ruby Main.rb ArabidopsisSubNetwork_GeneList.txt`
 
-#References
+## References
 Append key/value pair to hash with << in ruby. Stack Overflow. Retrieved November 26, 2022, from https://stackoverflow.com/questions/19756139/append-key-value-pair-to-hash-with-in-ruby
 
 Como USAR .nil? .empty? .blank? y .present? Correctamente Ruby on rails. Antonio Pérez. Retrieved November 26, 2022, from https://antonioperez.pro/como-usar-nil-empty-blank-y-present-correctamente-en-ruby-on-rails/
