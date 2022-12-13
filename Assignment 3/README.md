@@ -34,11 +34,14 @@ Tasks: for 10% (harder)
 Along with your code, for this assignment please submit a screen-shot of your GFF track beside the AT2G46340 gene on the ENSEMBL website to show me that you were successful. (note that the menu in the top-left of the ENSEMBL track-browser has an “export as image” option - or you can just take a screenshot - whichever you prefer)
 
 
-Runnning the code and output files:
+# Runnning the code and output files:
 In the terminal type: $ `ruby Main_Ass3.rb ArabidopsisSubNetwork_GeneList.txt` . With this you will obtain the following output files:
 
-GFF3_report.gff -> The output report in gff format that has the coordinates for each CTTCTT repetition annotated in the "local gene coordinates".
-GFF3_report_reex.gff -> The output reexecuted report in gff format that has the coordinates for each CTTCTT repetition annotated in the "global chromosome coordinates".
-Report_file.txt -> The output report which contains the gene id for those that weren't found any CTTCTT repetition.
-Other things submmited:
+- GFF3_report.gff -> The output report in gff format that has the coordinates for each CTTCTT repetition annotated in the "local gene coordinates".
+
+- GFF3_report_reex.gff -> The output reexecuted report in gff format that has the coordinates for each CTTCTT repetition annotated in the "global chromosome coordinates".
+
+- Report_file.txt -> The output report which contains the gene id for those that weren't found any CTTCTT repetition.
+
+# Other things submmited:
 In the yard folder are the outputs of using yard as a comment tool for the GFF_functions.rb generated. The file Arabidopsis_thaliana_219022374_19022379.jpeg is the GFF track beside the AT2G46340 gene on the ENSEMBL website.
