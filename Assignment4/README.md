@@ -43,9 +43,13 @@ General:
 Blast local – Programación#Bioinformática. (s. f.). https://blogs.upm.es/estudiaciencia/blast-local/
 BLAST search parameter E-value. (s. f.). http://insect-genome.com/blast/docs/e-value.html
 Select all elements from one column in an array of arrays in Ruby? (2012, 27 julio). Stack Overflow. https://stackoverflow.com/questions/11688466/select-all-elements-from-one-column-in-an-array-of-arrays-in-ruby
+
+
 For the parameters used in the code:
 
 Hernández-Salmerón, J. E. & Moreno-Hagelsieb, G. (2020). Progress in quickly finding orthologs as reciprocal best hits: comparing blast, last, diamond and MMseqs2. BMC Genomics, 21(1). https://doi.org/10.1186/s12864-020-07132-6
+
+
 For the "Next steps in analysis" :
 
 Huerta-Cepas, J., Forslund, K., Coelho, L. P., Szklarczyk, D., Jensen, L. J., von Mering, C. & Bork, P. (2017). Fast Genome-Wide Functional Annotation through Orthology Assignment by eggNOG-Mapper. Molecular Biology and Evolution, 34(8), 2115-2122. https://doi.org/10.1093/molbev/msx148
