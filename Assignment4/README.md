@@ -40,18 +40,18 @@ Another idea would be using metagenomic tools already implemented as eggNOG-Mapp
 # Bibliography
 General:
 
-Blast local – Programación#Bioinformática. (s. f.). https://blogs.upm.es/estudiaciencia/blast-local/
-BLAST search parameter E-value. (s. f.). http://insect-genome.com/blast/docs/e-value.html
-Select all elements from one column in an array of arrays in Ruby? (2012, 27 julio). Stack Overflow. https://stackoverflow.com/questions/11688466/select-all-elements-from-one-column-in-an-array-of-arrays-in-ruby
+1. Blast local – Programación#Bioinformática. (s. f.). https://blogs.upm.es/estudiaciencia/blast-local/
+2. BLAST search parameter E-value. (s. f.). http://insect-genome.com/blast/docs/e-value.html
+3. Select all elements from one column in an array of arrays in Ruby? (2012, 27 julio). Stack Overflow. https://stackoverflow.com/questions/11688466/select-all-elements-from-one-column-in-an-array-of-arrays-in-ruby
 
 
 For the parameters used in the code:
 
-Hernández-Salmerón, J. E. & Moreno-Hagelsieb, G. (2020). Progress in quickly finding orthologs as reciprocal best hits: comparing blast, last, diamond and MMseqs2. BMC Genomics, 21(1). https://doi.org/10.1186/s12864-020-07132-6
+1. Hernández-Salmerón, J. E. & Moreno-Hagelsieb, G. (2020). Progress in quickly finding orthologs as reciprocal best hits: comparing blast, last, diamond and MMseqs2. BMC Genomics, 21(1). https://doi.org/10.1186/s12864-020-07132-6
 
 
 For the "Next steps in analysis" :
 
-Huerta-Cepas, J., Forslund, K., Coelho, L. P., Szklarczyk, D., Jensen, L. J., von Mering, C. & Bork, P. (2017). Fast Genome-Wide Functional Annotation through Orthology Assignment by eggNOG-Mapper. Molecular Biology and Evolution, 34(8), 2115-2122. https://doi.org/10.1093/molbev/msx148
-Mylarshchikov, D. E. & Mironov, A. A. (2022). ortho2align: a sensitive approach for searching for orthologues of novel lncRNAs. BMC Bioinformatics, 23(1). https://doi.org/10.1186/s12859-022-04929-y
-Nevers, Y., Jones, T. E. M., Jyothi, D., Yates, B., Ferret, M., Portell-Silva, L., Codo, L., Cosentino, S., Marcet-Houben, M., Vlasova, A., Poidevin, L., Kress, A., Hickman, M., Persson, E., Piližota, I., Guijarro-Clarke, C., Altenhoff, A., Bruford, E. A., Cosentino, S., . . . Altenhoff, A. (2022). The Quest for Orthologs orthology benchmark service in 2022. Nucleic Acids Research, 50(W1), W623-W632. https://doi.org/10.1093/nar/gkac330
+1. Huerta-Cepas, J., Forslund, K., Coelho, L. P., Szklarczyk, D., Jensen, L. J., von Mering, C. & Bork, P. (2017). Fast Genome-Wide Functional Annotation through Orthology Assignment by eggNOG-Mapper. Molecular Biology and Evolution, 34(8), 2115-2122. https://doi.org/10.1093/molbev/msx148
+2. Mylarshchikov, D. E. & Mironov, A. A. (2022). ortho2align: a sensitive approach for searching for orthologues of novel lncRNAs. BMC Bioinformatics, 23(1). https://doi.org/10.1186/s12859-022-04929-y
+3. Nevers, Y., Jones, T. E. M., Jyothi, D., Yates, B., Ferret, M., Portell-Silva, L., Codo, L., Cosentino, S., Marcet-Houben, M., Vlasova, A., Poidevin, L., Kress, A., Hickman, M., Persson, E., Piližota, I., Guijarro-Clarke, C., Altenhoff, A., Bruford, E. A., Cosentino, S., . . . Altenhoff, A. (2022). The Quest for Orthologs orthology benchmark service in 2022. Nucleic Acids Research, 50(W1), W623-W632. https://doi.org/10.1093/nar/gkac330
